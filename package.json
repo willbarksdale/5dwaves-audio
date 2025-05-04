@@ -1,0 +1,13 @@
+{
+  "name": "5dwaves-audio",
+  "version": "1.0.0",
+  "description": "5D Waves Audio Server",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "wrangler publish"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+} 
