@@ -1,6 +1,8 @@
 {
   "version": "1.0",
   "baseUrl": "https://5dwaves-audio.pages.dev",
+  "defaultDuration": "5:00",
+  "defaultLooping": true,
   "categories": {
     "sleep": [
       {
