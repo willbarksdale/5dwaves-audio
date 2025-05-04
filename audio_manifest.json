@@ -1,0 +1,966 @@
+{
+  "version": "1.0",
+  "baseUrl": "https://5dwaves-audio.pages.dev",
+  "categories": {
+    "sleep": [
+      {
+        "title": "White Noise",
+        "duration": "5:00",
+        "looping": true,
+        "description": "White Noise",
+        "filename": "sleep/whitenoise.mp3",
+        "frequencyHz": null
+      },
+      {
+        "title": "Ambient Rain",
+        "duration": "5:00",
+        "looping": true,
+        "description": "432 Hz Frequency",
+        "filename": "sleep/ambientrain-432-2.mp3",
+        "frequencyHz": 432
+      },
+      {
+        "title": "Cypress",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "sleep/cypress-528-40.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Deep",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "sleep/deep-528-34.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Dream",
+        "duration": "5:00",
+        "looping": true,
+        "description": "741 Hz Frequency",
+        "filename": "sleep/dream-741-9.mp3",
+        "frequencyHz": 741
+      },
+      {
+        "title": "Frequent",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "sleep/frequent-528-43.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Glow",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "sleep/glow-852-26.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Golden",
+        "duration": "5:00",
+        "looping": true,
+        "description": "417 Hz Frequency",
+        "filename": "sleep/golden-417-2.mp3",
+        "frequencyHz": 417
+      },
+      {
+        "title": "Immerse",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "sleep/immerse-963-11.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Lullaby",
+        "duration": "5:00",
+        "looping": true,
+        "description": "396 Hz Frequency",
+        "filename": "sleep/lullaby-396-2.mp3",
+        "frequencyHz": 396
+      },
+      {
+        "title": "Palladium",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "sleep/palladium-528-33.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Parallel",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "sleep/parallel-528-13.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Purpose",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "sleep/purpose-528-22.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Relic",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "sleep/relic-852-41.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Rem",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "sleep/rem-852-10.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Restful",
+        "duration": "5:00",
+        "looping": true,
+        "description": "999 Hz Frequency",
+        "filename": "sleep/restful-999-1.mp3",
+        "frequencyHz": 999
+      },
+      {
+        "title": "River",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "sleep/river-852-20.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Stillness",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "sleep/stillness-963-15.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Stream",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "sleep/stream-963-2.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Within",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "sleep/within-528-8.mp3",
+        "frequencyHz": 528
+      }
+    ],
+    "meditate": [
+      {
+        "title": "Abundance",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "meditate/abundance-528-21.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Aurora",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "meditate/aurora-963-10.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Ballet",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/ballet-852-4.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Blessing",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "meditate/blessing-963-5.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Cavern",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "meditate/cavern-528-17.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Ceremony",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/ceremony-852-21.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Choir",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "meditate/choir-528-18.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Clarity",
+        "duration": "5:00",
+        "looping": true,
+        "description": "741 Hz Frequency",
+        "filename": "meditate/clarity-741-1.mp3",
+        "frequencyHz": 741
+      },
+      {
+        "title": "Compass",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/compass-852-19.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Constellation",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/constellation-852-39.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Curiosity",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "meditate/curiosity-528-27.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Divine",
+        "duration": "5:00",
+        "looping": true,
+        "description": "Divine",
+        "filename": "meditate/divine-breath-444-3.mp3",
+        "frequencyHz": null
+      },
+      {
+        "title": "Drive",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/drive-852-7.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Earth",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "meditate/earth-528-35.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Embrace",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "meditate/embrace-528-4.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Flow",
+        "duration": "5:00",
+        "looping": true,
+        "description": "741 Hz Frequency",
+        "filename": "meditate/flow-741-8.mp3",
+        "frequencyHz": 741
+      },
+      {
+        "title": "Flux",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/flux-852-24.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Glory",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "meditate/glory-528-41.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Ground",
+        "duration": "5:00",
+        "looping": true,
+        "description": "741 Hz Frequency",
+        "filename": "meditate/ground-741-3.mp3",
+        "frequencyHz": 741
+      },
+      {
+        "title": "Healing",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "meditate/healing-528-10s.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Journey",
+        "duration": "5:00",
+        "looping": true,
+        "description": "285 Hz Frequency",
+        "filename": "meditate/journey-285-2.mp3",
+        "frequencyHz": 285
+      },
+      {
+        "title": "Joy",
+        "duration": "5:00",
+        "looping": true,
+        "description": "741 Hz Frequency",
+        "filename": "meditate/joy-741-6.mp3",
+        "frequencyHz": 741
+      },
+      {
+        "title": "Light",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/light-852-28.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Mellow",
+        "duration": "5:00",
+        "looping": true,
+        "description": "174 Hz Frequency",
+        "filename": "meditate/mellow-174-2.mp3",
+        "frequencyHz": 174
+      },
+      {
+        "title": "Melodica",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/melodica-852-30.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Memories",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/memories-852-34.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Miracle",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/miracle-852-14.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Moon",
+        "duration": "5:00",
+        "looping": true,
+        "description": "396 Hz Frequency",
+        "filename": "meditate/moon-396-1.mp3",
+        "frequencyHz": 396
+      },
+      {
+        "title": "Nouveaux",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/nouveaux-852-29.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Pure",
+        "duration": "5:00",
+        "looping": true,
+        "description": "639 Hz Frequency",
+        "filename": "meditate/pure-639-2.mp3",
+        "frequencyHz": 639
+      },
+      {
+        "title": "Risen",
+        "duration": "5:00",
+        "looping": true,
+        "description": "444 Hz Frequency",
+        "filename": "meditate/risen-444-1s.mp3",
+        "frequencyHz": 444
+      },
+      {
+        "title": "Sacred",
+        "duration": "5:00",
+        "looping": true,
+        "description": "Sacred",
+        "filename": "meditate/sacred-forest-432-5.mp3",
+        "frequencyHz": null
+      },
+      {
+        "title": "Sacred",
+        "duration": "5:00",
+        "looping": true,
+        "description": "Sacred",
+        "filename": "meditate/sacred-harmony-639-5.mp3",
+        "frequencyHz": null
+      },
+      {
+        "title": "Smooth",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "meditate/smooth-528-19.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Summit",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "meditate/summit-963-9.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Sunset",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/sunset-852-3-2.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Theta",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/theta-852-35.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Umong",
+        "duration": "5:00",
+        "looping": true,
+        "description": "639 Hz Frequency",
+        "filename": "meditate/umong-639-4.mp3",
+        "frequencyHz": 639
+      },
+      {
+        "title": "Uplift",
+        "duration": "5:00",
+        "looping": true,
+        "description": "741 Hz Frequency",
+        "filename": "meditate/uplift-741-10.mp3",
+        "frequencyHz": 741
+      },
+      {
+        "title": "Voyage",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "meditate/voyage-963-4.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Whole",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "meditate/whole-852-22.mp3",
+        "frequencyHz": 852
+      }
+    ],
+    "focus": [
+      {
+        "title": "Awaken",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "focus/awaken-852-8.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Bliss",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "focus/bliss-963-3.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Build",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "focus/build-528-9.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Courtyard",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "focus/courtyard-852-40.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Crystalline",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "focus/crystalline-528-15.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Current",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "focus/current-852-36.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Daybreak",
+        "duration": "5:00",
+        "looping": true,
+        "description": "639 Hz Frequency",
+        "filename": "focus/daybreak-639-3.mp3",
+        "frequencyHz": 639
+      },
+      {
+        "title": "Eclipse",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "focus/eclipse-528-42.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Expand",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "focus/expand-963-14.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Glacier",
+        "duration": "5:00",
+        "looping": true,
+        "description": "396 Hz Frequency",
+        "filename": "focus/glacier-396-5.mp3",
+        "frequencyHz": 396
+      },
+      {
+        "title": "Glass",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "focus/glass-852-11.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Horizon",
+        "duration": "5:00",
+        "looping": true,
+        "description": "417 Hz Frequency",
+        "filename": "focus/horizon-417-1.mp3",
+        "frequencyHz": 417
+      },
+      {
+        "title": "Intuition",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "focus/intuition-852-32.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Light",
+        "duration": "5:00",
+        "looping": true,
+        "description": "Light",
+        "filename": "focus/light-wave-852-33.mp3",
+        "frequencyHz": null
+      },
+      {
+        "title": "Monks",
+        "duration": "5:00",
+        "looping": true,
+        "description": "Monks",
+        "filename": "focus/monks-trail-528-30.mp3",
+        "frequencyHz": null
+      },
+      {
+        "title": "New",
+        "duration": "5:00",
+        "looping": true,
+        "description": "New",
+        "filename": "focus/new-light-528-2.mp3",
+        "frequencyHz": null
+      },
+      {
+        "title": "Nudge",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "focus/nudge-852-12.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Pi",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "focus/pi-528-26.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Shine",
+        "duration": "5:00",
+        "looping": true,
+        "description": "741 Hz Frequency",
+        "filename": "focus/shine-741-4.mp3",
+        "frequencyHz": 741
+      },
+      {
+        "title": "Starlit",
+        "duration": "5:00",
+        "looping": true,
+        "description": "741 Hz Frequency",
+        "filename": "focus/starlit-741-5.mp3",
+        "frequencyHz": 741
+      },
+      {
+        "title": "Stone",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "focus/stone-852-31.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "String",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "focus/string-852-27.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Terrace",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "focus/terrace-852-38.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Truth",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "focus/truth-852-6.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Vibrating",
+        "duration": "5:00",
+        "looping": true,
+        "description": "Vibrating",
+        "filename": "focus/vibrating-light-432-4.mp3",
+        "frequencyHz": null
+      },
+      {
+        "title": "Victory",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "focus/victory-528-23.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Visionnaire",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "focus/visionnaire-528-20.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Whisper",
+        "duration": "5:00",
+        "looping": true,
+        "description": "741 Hz Frequency",
+        "filename": "focus/whisper-741-7.mp3",
+        "frequencyHz": 741
+      },
+      {
+        "title": "Wind",
+        "duration": "5:00",
+        "looping": true,
+        "description": "444 Hz Frequency",
+        "filename": "focus/wind-444-2.mp3",
+        "frequencyHz": 444
+      },
+      {
+        "title": "Xen",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "focus/xen-528-31.mp3",
+        "frequencyHz": 528
+      }
+    ],
+    "relax": [
+      {
+        "title": "Alps",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "relax/alps-528-12.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Arrival",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "relax/arrival-852-963-1.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Belle",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "relax/belle-852-2.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Boundless",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "relax/boundless-963-7.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Cosmic",
+        "duration": "5:00",
+        "looping": true,
+        "description": "396 Hz Frequency",
+        "filename": "relax/cosmic-396-3.mp3",
+        "frequencyHz": 396
+      },
+      {
+        "title": "Densari",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "relax/densari-528-29.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Eliza",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "relax/eliza-528-37.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Eternal",
+        "duration": "5:00",
+        "looping": true,
+        "description": "639 Hz Frequency",
+        "filename": "relax/eternal-639-1.mp3",
+        "frequencyHz": 639
+      },
+      {
+        "title": "Floating",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "relax/floating-528-11.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Gentle",
+        "duration": "5:00",
+        "looping": true,
+        "description": "639 Hz Frequency",
+        "filename": "relax/gentle-639-6.mp3",
+        "frequencyHz": 639
+      },
+      {
+        "title": "Grand",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "relax/grand-528-7.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Growth",
+        "duration": "5:00",
+        "looping": true,
+        "description": "285 Hz Frequency",
+        "filename": "relax/growth-285-3.mp3",
+        "frequencyHz": 285
+      },
+      {
+        "title": "Hope",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "relax/hope-528-39.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Kay",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "relax/kay-528-32.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Lush",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "relax/lush-852-37.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Mindful",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "relax/mindful-528-1.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Noble",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "relax/noble-852-5.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Presence",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "relax/presence-963-12.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Resonance",
+        "duration": "5:00",
+        "looping": true,
+        "description": "432 Hz Frequency",
+        "filename": "relax/resonance-432-3.mp3",
+        "frequencyHz": 432
+      },
+      {
+        "title": "Rise",
+        "duration": "5:00",
+        "looping": true,
+        "description": "285 Hz Frequency",
+        "filename": "relax/rise-285-1.mp3",
+        "frequencyHz": 285
+      },
+      {
+        "title": "Shimmer",
+        "duration": "5:00",
+        "looping": true,
+        "description": "963 Hz Frequency",
+        "filename": "relax/shimmer-963-13.mp3",
+        "frequencyHz": 963
+      },
+      {
+        "title": "Solar",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "relax/solar-528-3.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Sweet",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "relax/sweet-528-14.mp3",
+        "frequencyHz": 528
+      },
+      {
+        "title": "Tranquility",
+        "duration": "5:00",
+        "looping": true,
+        "description": "174 Hz Frequency",
+        "filename": "relax/tranquility-174-1.mp3",
+        "frequencyHz": 174
+      },
+      {
+        "title": "Twilight",
+        "duration": "5:00",
+        "looping": true,
+        "description": "Twilight",
+        "filename": "relax/twilight-wind-528-25.mp3",
+        "frequencyHz": null
+      },
+      {
+        "title": "Wave",
+        "duration": "5:00",
+        "looping": true,
+        "description": "Wave",
+        "filename": "relax/wave-jungle-963-6.mp3",
+        "frequencyHz": null
+      },
+      {
+        "title": "Wilhelm",
+        "duration": "5:00",
+        "looping": true,
+        "description": "852 Hz Frequency",
+        "filename": "relax/wilhelm-852-25.mp3",
+        "frequencyHz": 852
+      },
+      {
+        "title": "Yearn",
+        "duration": "5:00",
+        "looping": true,
+        "description": "528 Hz Frequency",
+        "filename": "relax/yearn-528-36.mp3",
+        "frequencyHz": 528
+      }
+    ]
+  }
+}
